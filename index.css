@@ -1,0 +1,16 @@
+.topright{
+   align-items: right; 
+}
+.f1{
+    
+    font-size: 20px;
+    color:blue;
+    padding: 20px;
+    margin: 20px;
+
+}
+#f22{
+    height: 100px;
+    background-color: lightblue;
+    border-radius: 20px;
+}
